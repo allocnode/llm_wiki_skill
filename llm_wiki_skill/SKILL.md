@@ -41,11 +41,11 @@ compatibility: >
   Optional: webfetch (for fetching external materials)
 ---
 
-# LLM Wiki Programming
+# LLM Wiki
 
 ## System Introduction
 
-LLM Wiki Programming is a personal knowledge base system for software development.
+LLM Wiki is a personal knowledge base system for software development.
 
 ### Core Philosophy (from Karpathy)
 

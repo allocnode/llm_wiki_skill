@@ -1,7 +1,7 @@
 # LLM Wiki Schema
 
 > **Version**: 1.0.0  
-> **Purpose**: Defines the structural conventions, page templates, and naming standards for the LLM Wiki Programming knowledge base.  
+> **Purpose**: Defines the structural conventions, page templates, and naming standards for the LLM Wiki knowledge base.  
 > **Usage**: The Agent reads this file first when loading the Skill, to understand all templates and conventions before executing workflows.
 
 ---
